@@ -1,4 +1,5 @@
-# User_Engagement_Analysis
+# User Engagement Analysis for Restaurant Success
+
 
 "User Engagement Analysis For Restaurant Success" focuses on understanding how user engagement on Yelp influences restaurant success. It examines the relationship between factors like reviews, tips, check-ins, and business performance metrics such as review count and star ratings. 
 
